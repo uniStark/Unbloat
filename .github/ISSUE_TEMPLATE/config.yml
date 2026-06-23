@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Reverse-engineering notes
+    url: https://github.com/uniStark/Unbloat/blob/main/docs/reverse-engineering.md
+    about: How the headset / mouse / EQ were figured out — worth a read before filing device-support requests.

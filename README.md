@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎧 PeltaTool
+# 🧹 Unbloat
 
 **One tiny tray app that replaces Armoury Crate · Logitech G HUB · Creative App · MSI Center — for the things you actually use.**
 
@@ -13,7 +13,7 @@
 
 </div>
 
-PeltaTool started as a way to stop running two heavyweight vendor suites just to "see the
+Unbloat started as a way to stop running two heavyweight vendor suites just to "see the
 mouse battery" and "auto-switch headset EQ for games". It ends up replacing four of them
 with a single ~16 KB tray executable, all driven by the open-source
 [Equalizer APO](https://sourceforge.net/projects/equalizerapo/).
@@ -131,4 +131,4 @@ devices. Keep it dependency-free (Framework + Win32) so it stays a single small 
 - [LGSTrayBattery](https://github.com/andyvorld/LGSTrayBattery) & [Solaar](https://github.com/pwr-Solaar/Solaar) — references for Logitech HID++ battery
 - ASUS, Creative and Logitech — for shipping software heavy enough to make this worth building 😄
 
-<div align="center"><sub><a href="#-peltatool">↑ Back to top</a></sub></div>
+<div align="center"><sub><a href="#-unbloat">↑ Back to top</a></sub></div>
