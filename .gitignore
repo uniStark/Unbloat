@@ -1,0 +1,7 @@
+*.exe
+*.pcap
+*.zip
+*.bak
+bin/
+obj/
+eq/pelta-active.txt

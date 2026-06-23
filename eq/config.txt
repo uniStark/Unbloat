@@ -1,0 +1,4 @@
+Device: PELTA
+Include: pelta-default.txt
+Device: T60
+Include: t60.txt
