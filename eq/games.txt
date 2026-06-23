@@ -1,10 +1,6 @@
-# Game list for PeltaTool.
-# One process EXE name per line. When one of these is the FOREGROUND window,
-# the headset switches to the FPS (footstep) EQ profile; otherwise Default.
-# Lines starting with # are ignored. Use the tray menu "Reload game list" after editing.
+# Games that trigger the FPS (footstep) EQ profile.
+# One process exe name per line. Keeping only CS2 / PUBG / Apex.
 cs2.exe
-csgo.exe
+TslGame.exe
 r5apex.exe
 r5apex_dx12.exe
-TslGame.exe
-valorant.exe
